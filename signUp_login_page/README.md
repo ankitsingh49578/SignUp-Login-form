@@ -1,6 +1,6 @@
 # React Authentication Form
 
-A React application with toggleable Login and Sign-Up forms, using Formik for form handling, Yup for validation, and styled with Tailwind CSS.
+# A React application with toggleable Login and Sign-Up forms, using Formik for form handling, Yup for validation, and styled with Tailwind CSS.
 
 1.Clone the repository:
 cd react-auth-form
